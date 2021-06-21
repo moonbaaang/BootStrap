@@ -12,6 +12,42 @@
 
 <br>
 
-* 12 그리드 시스템 제공 - 하나의 행을 12개의 열로 나눌 수 있음
-  * ex ) [bootstrap1.html](https://github.com/moonbaaang/Bootstrap/blob/main/bootstrap1.html)
+### Grid system
 
+* 하나의 행을 12개의 열로 나눌 수 있음
+* 브라우저의 크기에 따라 반응형으로 크기를 조절 가능
+* ex ) [bootstrap1.html](https://github.com/moonbaaang/Bootstrap/blob/main/bootstrap1.html)
+
+![gridsystem](image/gridsystem.JPG)
+
+### Component
+
+* Alert / Badges / Buttons 등 페이지 구성에 있어 유용한 아이템들의 기본 사용 형태 정의
+
+* Primary, Secondary, Success, Danger, Warning, Info 등 기본 색상 및  사용 형태 지정
+
+<br>
+
+## Examples
+
+![example](image/example.JPG)
+
+* 사용 예시가 나열 되어있음
+
+<br>
+
+## Icon
+
+![icons](image/icons.JPG)
+
+* 웹 페이지 작성 시 필요한 아이콘을 사용 가능
+
+<br>
+
+# Themes
+
+![themes](image/themes.JPG)
+
+* ANGULAR / Vue.js / REACT.js 등의 버전도 제공하는 경우가 많음
+
+<br>
